@@ -1,5 +1,5 @@
 /.idea/
-/djvenv/
+/my_env/
 .DS_Store
 __pycache__
 uploads/
