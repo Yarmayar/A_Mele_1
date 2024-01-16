@@ -1,0 +1,9 @@
+/.idea/
+/djvenv/
+.DS_Store
+__pycache__
+uploads/
+*.png
+*.jpeg
+*.sqlite3
+*.txt
