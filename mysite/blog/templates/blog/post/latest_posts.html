@@ -1,7 +1,7 @@
-{% if latest_posts %}
-{% for post in latest_posts %}
-<p>
-    <a href="{{ post.get_absolute_url }}">{{post.title}}</a>
-</p>
-{% endfor %}
-{% endif %}
+<ul>
+    {% for post in latest_posts %}
+        <li>
+            <a href="{{ post.get_absolute_url }}">{{post.title}}</a>
+        </li>
+    {% endfor %}
+</ul>
