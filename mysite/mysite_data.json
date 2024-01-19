@@ -1,0 +1,1533 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-01-16T15:29:53.156Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Benjamin Franklin’s Inventions",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-01-17T16:17:07.140Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Nicola Tesla?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-01-17T16:18:19.210Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "What is Aristotle's best invention?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-01-17T16:18:52.166Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "What is Churchill famous for?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-01-17T16:19:57.392Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "What is the evidence for Darwinian evolution?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-01-17T16:21:23.863Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Which football club became the first in history?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-01-17T16:23:06.937Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "What is the most popular dish in the world?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-01-17T16:23:50.793Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What is the name of the most powerful modern computer?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-01-17T16:25:26.904Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "The most famous person in the world",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-01-17T16:26:45.787Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened to song in the world",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-01-18T18:47:15.795Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Comment by Yar on Which football club became the first in history?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-01-18T18:47:20.400Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comment by Yar on Which football club became the first in history?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-01-18T18:47:24.197Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Comment by Yar on Which football club became the first in history?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-01-19T12:25:49.943Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Which football club became the first in history?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-01-19T12:27:37.291Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Nicola Tesla?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-01-19T12:27:52.022Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "What is Aristotle's best invention?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-01-19T12:28:08.428Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "What is Churchill famous for?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-01-19T12:28:57.093Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "What is the evidence for Darwinian evolution?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-01-19T12:29:07.901Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Nicola Tesla?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-01-19T12:29:18.402Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Which football club became the first in history?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-01-19T12:30:03.205Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "What is the most popular dish in the world?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-01-19T12:30:28.333Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What is the name of the most powerful modern computer?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-01-19T12:30:43.409Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "The most famous person in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-01-19T12:30:56.736Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened to song in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-01-19T14:58:37.089Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Benjamin Franklin’s Inventions",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-01-19T14:59:19.524Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened to song in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-01-19T14:59:46.653Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "The most famous person in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-01-19T17:21:09.849Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Iron",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-01-19T17:22:12.076Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened to song in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-01-19T17:22:33.839Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "The most famous person in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-01-19T17:23:34.912Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened song in the world",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-01-19T17:24:11.335Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "The most listened song in the world",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-01-19T18:41:46.276Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown filter",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-01-19T18:44:22.833Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown filter",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-01-19T19:02:32.254Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$YfM5zBhvbEqMDdTihKhr53$506wOLrtcpDvL+I0uLu4643GKNuptQR0djutLRZ/cIs=",
+    "last_login": "2024-01-16T15:23:50.265Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-01-16T15:22:57.943Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5f8hw0qx2iz3bk5wlcqmgsfoqslj94g2",
+  "fields": {
+    "session_data": ".eJxVjEsOwiAUAO_C2hDo4-vSfc9A4D0qVQNJaVfGuxuSLnQ7M5k3C_HYSzh63sJK7Moku_yyFPGZ6xD0iPXeOLa6b2viI-Gn7XxulF-3s_0blNjL2BqYJCQhyKOVxoMSaMGiyYoUGWVjAtCo5eK0nxTBgqiTdBqdFdEQ-3wBs3s3Dg:1rPlI6:J2oNRQoIO5mNmfT8zsCWmGbtqtcmWabnivAhr8OKAtw",
+    "expire_date": "2024-01-30T15:23:50.266Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Benjamin Franklin’s Inventions",
+    "slug": "benjamin-franklin-s-inventions",
+    "author": 1,
+    "body": "Benjamin Franklin was many things in his lifetime: a printer, a postmaster, an ambassador, an author, a scientist, and a Founding Father. Above all, he was an inventor, creating solutions to common problems, innovating new technology, and even making life a little more musical.",
+    "publish": "2024-01-16T15:26:18Z",
+    "created": "2024-01-16T15:29:53.153Z",
+    "updated": "2024-01-19T14:58:37.082Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Who is Nicola Tesla?",
+    "slug": "who-is-nicola-tesla",
+    "author": 1,
+    "body": "Nikola Tesla (/ˈtɛslə/; Serbian Cyrillic: Никола Тесла,[2] [nǐkola têsla];[a] 10 July [O.S. 28 June] 1856 – 7 January 1943) was a Serbian-American[5][6] inventor, electrical engineer, mechanical engineer, and futurist. He is best-known for his contributions to the design of the modern alternating current (AC) electricity supply system.[7]\r\n\r\nBorn and raised in the Austrian Empire, Tesla first studied engineering and physics in the 1870s without receiving a degree. He then gained practical experience in the early 1880s working in telephony and at Continental Edison in the new electric power industry. In 1884 he emigrated to the United States, where he became a naturalized citizen. He worked for a short time at the Edison Machine Works in New York City before he struck out on his own. With the help of partners to finance and market his ideas, Tesla set up laboratories and companies in New York to develop a range of electrical and mechanical devices. His AC induction motor and related polyphase AC patents, licensed by Westinghouse Electric in 1888, earned him a considerable amount of money and became the cornerstone of the polyphase system which that company eventually marketed.",
+    "publish": "2024-01-17T16:15:00Z",
+    "created": "2024-01-17T16:17:07.137Z",
+    "updated": "2024-01-19T12:29:07.894Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "What is Aristotle's best invention?",
+    "slug": "what-is-aristotles-best-invention",
+    "author": 1,
+    "body": "Aristotle's Main Contributions. Aristotle is known for inventing the scientific method of analysis, which can be applied to multiple fields of study. He also is responsible for breaking fields of knowledge into categories and subcategories, such as psychology, biology, politics, logic, chemistry, and botany.",
+    "publish": "2024-01-17T16:17:07Z",
+    "created": "2024-01-17T16:18:19.206Z",
+    "updated": "2024-01-19T12:27:52.011Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "What is Churchill famous for?",
+    "slug": "what-is-churchill-famous-for",
+    "author": 1,
+    "body": "Winston Churchill was an inspirational statesman, writer, orator and leader who led Britain to victory in the Second World War. He served as Conservative Prime Minister twice - from 1940 to 1945 (before being defeated in the 1945 general election by the Labour leader Clement Attlee) and from 1951 to 1955.",
+    "publish": "2024-01-17T16:18:19Z",
+    "created": "2024-01-17T16:18:52.163Z",
+    "updated": "2024-01-19T12:28:08.420Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "What is the evidence for Darwinian evolution?",
+    "slug": "what-is-the-evidence-for-darwinian-evolution",
+    "author": 1,
+    "body": "Along path leads from the origins of primitive \"life,\" which existed at least 3.5 billion years ago, to the profusion and diversity of life that exists today. This path is best understood as a product of evolution.\r\n\r\nContrary to popular opinion, neither the term nor the idea of biological evolution began with Charles Darwin and his foremost work, On the Origin of Species by Means of Natural Selection (1859). Many scholars from the ancient Greek philosophers on had inferred that similar species were descended from a common ancestor. The word \"evolution\" first appeared in the English language in 1647 in a nonbiological connection, and it became widely used in English for all sorts of progressions from simpler beginnings. The term Darwin most often used to refer to biological evolution was \"descent with modification,\" which remains a good brief definition of the process today.\r\n\r\nDarwin proposed that evolution could be explained by the differential survival of organisms following their naturally occurring variation—a process he termed \"natural selection.\" According to this view, the offspring of organisms differ from one another and from their parents in ways that are heritable—that is, they can pass on the differences genetically to their own offspring. Furthermore, organisms in nature typically produce more offspring than can survive and reproduce given the constraints of food, space, and other environmental resources. If a particular offspring has traits that give it an advantage in a particular environment, that organism will be more likely to survive and pass on those traits. As differences accumulate over generations, populations of organisms diverge from their ancestors.",
+    "publish": "2024-01-17T16:18:52Z",
+    "created": "2024-01-17T16:19:57.388Z",
+    "updated": "2024-01-19T12:28:57.085Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Which football club became the first in history?",
+    "slug": "which-football-club-became-the-first-in-history",
+    "author": 1,
+    "body": "Sheffield Football Club is founded on October 24th, by the pioneers, Nathaniel Creswick and William Prest, who wanted to build a community for the game of football. A game for young and old people alike to play in their free-time.\r\n\r\nSubsequently, two members, Nathaniel Creswick and William Prest, formed the Sheffield Football Club.\r\n\r\nThe inaugural meeting of the club took place on 24 October 1857 at Parkfield House in the suburb of Highfield in Sheffield. The original headquarters was a greenhouse on East Bank Road lent to them by Thomas Asline Ward, father of the first club president Frederick Ward, and the adjacent field was used as their first playing ground. Initially, Sheffield FC games were played among club members themselves and took the format of “Married v Singles” or “Professionals v the Rest”.\r\n\r\nCreswick and Prest were responsible for drawing up the club’s rules of play, which were decided upon at the club’s AGM on 21 October 1858, and published the following year. They were referred to as the Sheffield Rules, and were the first detailed set of rules of football to be published by a football club (as opposed to a school or university). At the time, before the formation of the Football Association (FA), many different kinds of football were popular in England. For example, each of the various public schools played football according to their own individual rules, and these varied widely. The Sheffield Rules were later adopted by the Sheffield Football Association when it was formed in 1867\r\n\r\nSheffield’s near neighbour, Hallam FC was formed in 1860 and in the same year the two clubs first met each other in a Local Derby which is still contested today.\r\n\r\nThey became members of The Football Association on 30 November 1863 but continued to use their own set of rules. On 2 January 1865, the club played its first fixture outside Sheffield against Nottingham playing eighteen-a-side under Nottingham Rules.\r\n\r\nBy this time the club had decided only to play teams outside Sheffield in order to seek a bigger challenge. On 31 March 1866, Sheffield played a ‘London’ team under FA Rules at Battersea Park. The game, played as an eleven aside, was won by London by 2 goals and four touches down to nil. However, the matter of Rules being disputed around the country was solved by the adaptation by Sheffield FC of the FA rules in 1878.",
+    "publish": "2024-01-17T16:19:57Z",
+    "created": "2024-01-17T16:21:23.860Z",
+    "updated": "2024-01-19T12:29:18.393Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "What is the most popular dish in the world?",
+    "slug": "what-is-the-most-popular-dish-in-the-world",
+    "author": 1,
+    "body": "Pizza has rightfully earned its place as the world's most beloved food. This Italian creation has become a staple in numerous countries, with endless variations to suit every taste bud. Whether you prefer thin crust or deep dish, classic Margherita, or loaded pepperoni, pizza has something for everyone.",
+    "publish": "2024-01-17T16:21:23Z",
+    "created": "2024-01-17T16:23:06.935Z",
+    "updated": "2024-01-19T12:30:03.193Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "What is the name of the most powerful modern computer?",
+    "slug": "what-is-the-name-of-the-most-powerful-modern-computer",
+    "author": 1,
+    "body": "The 60th TOP500 was published in November 2022. Since June 2022, the United States' Frontier is the most powerful supercomputer on TOP500, reaching 1102 petaFlops (1.102 exaFlops) on the LINPACK benchmarks.[2] The United States has by far the highest share of total computing power on the list (nearly 50%),[3] while China currently leads the list in number of systems with 173 supercomputers, with the U.S. not far behind in second place.\r\n\r\nThe TOP500 list is compiled by Jack Dongarra of the University of Tennessee, Knoxville, Erich Strohmaier and Horst Simon of the National Energy Research Scientific Computing Center (NERSC) and Lawrence Berkeley National Laboratory (LBNL), and, until his death in 2014, Hans Meuer of the University of Mannheim, Germany.[citation needed]",
+    "publish": "2024-01-17T16:23:06Z",
+    "created": "2024-01-17T16:23:50.790Z",
+    "updated": "2024-01-19T12:30:28.322Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "The most famous person in the world",
+    "slug": "the-most-famous-person-in-the-world",
+    "author": 1,
+    "body": "Topping our list of the most famous personalities of the world is Donald Trump. Known for his flamboyant and controversial personality, the former president of America has been the subject of many debates in the previous years. Born to an already established father, he was able to bring his family-owned business to new heights. Not only this, you may have heard his name as the host of the television series The Apprentice and as the owner of the Miss Universe brand of beauty pageants.\r\n\r\nKnown for his many endeavors, Donald Trump is certainly a paradox. In its 2020 billionaires ranking, Forbes estimated Donald Trump’s net worth at $2.1 billion making him one of the richest politicians in American history and the first billionaire American president. In addition to being a ruthless business, Trump also got fame through written word, with his book The Art of the Deal being hailed as New York Times bestseller. It was cited by The New Yorker as the book that made ‘Trump’s renown far beyond New York City, making him an emblem of the successful tycoon’. Known for his belligerent attitude and controversial tweets, Donald Trump is undisputedly one of the most famous people in the world right now.",
+    "publish": "2024-01-17T16:24:32Z",
+    "created": "2024-01-17T16:25:26.902Z",
+    "updated": "2024-01-19T17:22:33.829Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "The most listened song in the world",
+    "slug": "the-most-listened-song-in-the-world",
+    "author": 1,
+    "body": "As of June 2023, the most-streamed song of all time on Spotify is “Blinding Lights” (2019) by Canadian singer the Weeknd. It has amassed over 10 billion streams across all platforms, making it the undisputed champion of the music industry in recent years",
+    "publish": "2024-01-17T16:26:25Z",
+    "created": "2024-01-17T16:26:45.783Z",
+    "updated": "2024-01-19T17:24:11.330Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Markdown filter",
+    "slug": "markdown-filter",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One \r\n* Two \r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-01-19T18:41:10Z",
+    "created": "2024-01-19T18:41:46.265Z",
+    "updated": "2024-01-19T18:44:22.829Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 6,
+    "name": "Yar",
+    "email": "yar@google.com",
+    "body": "That's my team! Have supported it since my birthday!",
+    "created": "2024-01-18T18:29:47.287Z",
+    "updated": "2024-01-18T18:29:47.287Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 6,
+    "name": "Yar",
+    "email": "yar@google.com",
+    "body": "That's my team! Have supported it since my birthday!",
+    "created": "2024-01-18T18:32:56.992Z",
+    "updated": "2024-01-18T18:32:56.993Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 6,
+    "name": "Yar",
+    "email": "yar@google.com",
+    "body": "That's my team! Have supported it since my birthday!",
+    "created": "2024-01-18T18:34:14.879Z",
+    "updated": "2024-01-18T18:47:24.196Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 6,
+    "name": "Yar",
+    "email": "yar@google.com",
+    "body": "That's my team! Have supported it since my birthday!",
+    "created": "2024-01-18T18:41:08.674Z",
+    "updated": "2024-01-18T18:47:20.398Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 6,
+    "name": "Yar",
+    "email": "yar@google.com",
+    "body": "That's my team! Have supported it since my birthday!",
+    "created": "2024-01-18T18:41:11.819Z",
+    "updated": "2024-01-18T18:47:15.793Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 6,
+    "name": "observant_goose",
+    "email": "allclear@amiright.com",
+    "body": "U r crazy!!!",
+    "created": "2024-01-18T18:42:51.326Z",
+    "updated": "2024-01-18T18:42:51.326Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 6,
+    "name": "ChelseaFun",
+    "email": "abromovich@myserver.com",
+    "body": "Time has changed, it's no important anymore...",
+    "created": "2024-01-18T18:45:49.285Z",
+    "updated": "2024-01-18T18:45:49.285Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "History",
+    "slug": "history"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "Personalities",
+    "slug": "personalities"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "Biology",
+    "slug": "biology"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Politic",
+    "slug": "politic"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Science",
+    "slug": "science"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "Sport",
+    "slug": "sport"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "Food",
+    "slug": "food"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "Ranking",
+    "slug": "ranking"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "IT",
+    "slug": "it"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 10,
+  "fields": {
+    "name": "Music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 12,
+  "fields": {
+    "name": "Django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 14,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 16,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 17,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 19,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 20,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 21,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 22,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 32,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 33,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 34,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 35,
+  "fields": {
+    "tag": 12,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
