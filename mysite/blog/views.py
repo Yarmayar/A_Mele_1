@@ -106,7 +106,7 @@ def post_search(request):
             search_query = SearchQuery(query, config='english')
             results = Post.published.annotate(search=search_vector,
                                               rank=SearchRank(search_vector, search_query)
-                                              ).filter(rank__gte=0.3).order_by('-rank')
+                                              ).filter(rank__gte=0.3 ).order_by('-rank')
 
     return render(request, 'blog/post/search.html', {'form': form,
                                                      'query': query,
